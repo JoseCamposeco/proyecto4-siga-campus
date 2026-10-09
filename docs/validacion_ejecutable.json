@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "pages": [
+    "dashboard",
+    "students",
+    "teachers",
+    "courses",
+    "enrollments",
+    "grades",
+    "history",
+    "settings"
+  ],
+  "stats": {
+    "students": 8,
+    "teachers": 3,
+    "courses": 4,
+    "enrollments": 27,
+    "approved": 11,
+    "failed": 1,
+    "pending": 15
+  },
+  "cover_members": [
+    "José Gabriel Camposeco Santizo",
+    "AXEL MIGUEL ESTRADA GARCÍA",
+    "DAFHNE XIMENA GABRIEL ESCOBAR",
+    "CRISTOFHER OMAR MUÑOZ ESCOBAR"
+  ],
+  "passing": 70.0
+}
